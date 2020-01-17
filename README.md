@@ -7,3 +7,6 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 
 Converting CSV to IMAGES
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/discussion/29428
+
+HAAR CASCADE MODEL
+https://github.com/opencv/opencv/blob/master/data/haarcascades/
