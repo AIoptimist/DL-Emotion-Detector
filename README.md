@@ -2,6 +2,8 @@
 Emotion detector model created with VGG architecture to detect emotions on webcam.
 
 
+![VGG Layers](vgg_layers.png)
+
 DATA SET
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
